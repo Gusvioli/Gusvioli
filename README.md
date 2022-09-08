@@ -29,5 +29,4 @@
   </a> 
 
  ![Snake animation](https://github.com/Gusvioli/Gusvioli/blob/output/github-contribution-grid-snake.svg)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusvioli)](https://github.com/Gusvioli/github-readme-stats)
 </div>
