@@ -1,4 +1,26 @@
 ## Ola eu sou a Gustavo Vieira, Estudante e Desenvolvedor Web!
+##
+const competencias = [
+  'JavaScript',
+  'Html',
+  'Css',
+  'Node js',
+  'Git',
+  'React',
+  'Unix & Shell',
+  'Jest',
+  'RTL',
+  'Redux',
+  'ESlint',
+]
+
+function exibirCompetencias(competencias) {
+  return competencias.map((competencia) => `${competencia} = Concluido(a)! s2`);
+}
+
+const ler = exibirCompetencias(competencias);
+console.log(ler);
+##
  <div style="flex-direction: row; color: rgb(255, 196, 0);">
   <a href="https://github.com/Gusvioli">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
