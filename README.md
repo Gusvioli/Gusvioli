@@ -84,4 +84,3 @@
 
  ![Snake animation](https://github.com/Gusvioli/Gusvioli/blob/output/github-contribution-grid-snake.svg)
 </div>
-https://activity-graph.herokuapp.com/graph?username=gusvioli&theme=github&count_private=true
