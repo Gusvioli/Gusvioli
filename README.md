@@ -1,5 +1,7 @@
 ## Ola eu sou a Gustavo Vieira, Estudante e Desenvolvedor Web!
 
+## Meu portfólio #== <a href="https://gusvioli.github.io/">Meu portfólio</a> ==>
+
  <div style="flex-direction: row; color: rgb(255, 196, 0);">
   <a href="https://github.com/Gusvioli">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
