@@ -4,8 +4,8 @@
 
  <div style="flex-direction: row; color: rgb(255, 196, 0);">
   <a href="https://github.com/Gusvioli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&cache_seconds=7200&card_width=500&line_height=30"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=350"/>
 </div>
 <!-- <div style="display: inline_block; text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" />
