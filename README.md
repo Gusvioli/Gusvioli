@@ -1,25 +1,15 @@
 ## Ola eu sou a Gustavo Vieira, Estudante e Desenvolvedor Web!
-
+### Página:
 ## #== <a href="https://gusvioli.github.io/">Meu portfólio</a> ==>
-
+### Estatísticas:
  <div style="flex-direction: row; color: rgb(255, 196, 0);">
   <a href="https://github.com/Gusvioli">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&cache_seconds=7200&card_width=500&line_height=30"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=350"/>
 </div>
-<!-- <div style="display: inline_block; text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40px" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50px" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="50px" />
-</div> -->
 
 ##
-
+### Habilidades:
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -70,8 +60,8 @@
     </tbody>
 </table>
 
-  
   ##
+  ### Redes:
  
 <div> 
   <a href="https://www.instagram.com/kalyel2017/" target="_blank">
@@ -83,7 +73,6 @@
   <a href="https://www.linkedin.com/in/gustavo-vieira-7a52b96a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-
+  
  ![Snake animation](https://github.com/Gusvioli/Gusvioli/blob/output/github-contribution-grid-snake.svg)
 </div>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gusvioli&theme=github&count_private=true" target="_blank"> -->
