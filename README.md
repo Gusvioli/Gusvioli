@@ -1,4 +1,4 @@
-## Ola eu sou a Gustavo Vieira, Estudante e Desenvolvedor Web!
+## Ola eu sou Gustavo Vieira, Estudante e Desenvolvedor Web!
 ### Página:
 ## #== <a href="https://gusvioli.github.io/">Meu portfólio</a> ==>
 ### Estatísticas:
