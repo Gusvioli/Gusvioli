@@ -193,22 +193,3 @@ Estou confiante em minhas habilidades e determinado a alcançar meus objetivos p
  ![Snake animation](https://github.com/Gusvioli/Gusvioli/blob/output/github-contribution-grid-snake.svg)
 </div>
  
-
-
-  ##
-  ### Redes:
- 
-<div> 
-  <a href="https://www.instagram.com/kalyel2017/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- 	<a href = "mailto:gustavovieiradeoliveira@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-vieira-7a52b96a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
- ![Snake animation](https://github.com/Gusvioli/Gusvioli/blob/output/github-contribution-grid-snake.svg)
-</div>
- 
