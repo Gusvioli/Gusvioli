@@ -15,23 +15,6 @@ Estou confiante em minhas habilidades e determinado a alcançar meus objetivos p
 
 ##
 ### Habilidades:
-## Olá eu sou Gustavo Vieira, Estudante e Desenvolvedor Web!
-#### Tenho uma grande curiosidade em entender como as coisas funcionam e, por isso, decidi me aprofundar no campo da programação para a Web. Atualmente, tenho habilidades em várias tecnologias, como HTML5, CSS, JavaScript, React, GitHub, Node.js, Redux, Docker, SQL, TypeScript, Deploy e metodologias ágeis.
-
-Além disso, estou sempre me atualizando e me desenvolvendo como programador, buscando novos conhecimentos e desafios. Meu objetivo é me tornar um desenvolvedor full-stack altamente qualificado, conquistar reconhecimento no mercado de trabalho e obter um emprego de qualidade na área de desenvolvimento web.
-
-Estou confiante em minhas habilidades e determinado a alcançar meus objetivos por meio de trabalho duro e dedicação. Acredito que com minha paixão pela programação e minha ética de trabalho, posso contribuir de forma significativa para o sucesso de qualquer projeto de desenvolvimento web.
-### Página:
-## <a href="https://gusvioli.github.io/">Meu portfólio</a>
-### Estatísticas:
- <div style="flex-direction: row; color: rgb(255, 196, 0);">
-  <a href="https://github.com/Gusvioli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&cache_seconds=7200&card_width=500&line_height=30"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=350"/>
-</div>
-
-##
-### Habilidades:
 <table width="720px">
       <tbody>
       <tr valign="top">
