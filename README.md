@@ -18,9 +18,13 @@ Estou confiante em minhas habilidades e determinado a alcançar meus objetivos p
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&cache_seconds=7200&card_width=500&line_height=30"/>
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=350"/> -->
     
- <figure><embed src="https://wakatime.com/share/@188f7802-a63a-4659-96ff-2ab3525b4eae/8c278ed6-bbd9-4c13-80b8-239f7456fc55.svg"></embed></figure>
+ <embed src="https://wakatime.com/share/@188f7802-a63a-4659-96ff-2ab3525b4eae/8c278ed6-bbd9-4c13-80b8-239f7456fc55.svg"></embed>
+  
+<!--   [![wakatime](https://wakatime.com/badge/github/Gusvioli/to-do-list.svg)](https://wakatime.com/badge/github/Gusvioli/to-do-list) -->
   
    [![wakatime](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae/project/d2009dc6-dad4-4cf9-af06-6b7395dc9850.svg)](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae/project/d2009dc6-dad4-4cf9-af06-6b7395dc9850)
+  
+<!--   https://wakatime.com/@188f7802-a63a-4659-96ff-2ab3525b4eae/projects/fijqzyxoon?start=2023-03-15&end=2023-03-21 -->
   
 </div>
 
