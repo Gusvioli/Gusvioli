@@ -164,8 +164,10 @@ Estou confiante em minhas habilidades e determinado a alcançar meus objetivos p
       </tr>
     </tbody>
 </table>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31beuurb6m4k377yb7c4grxes4ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
 
-  ##
   ### Redes:
  
 <div> 
