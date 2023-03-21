@@ -1,3 +1,9 @@
+<img
+  height="auto" width="auto"
+  src="https://media.licdn.com/dms/image/D4D16AQG9FCZeRxkZfw/profile-displaybackgroundimage-shrink_350_1400/0/1671031063512?e=1684972800&v=beta&t=dczfvGDlH6c3s3PpUWajb3BCswsrqIwGRcU8FJ4Riy0"
+  data-canonical-src="[https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg](https://media.licdn.com/dms/image/D4D16AQG9FCZeRxkZfw/profile-displaybackgroundimage-shrink_350_1400/0/1671031063512?e=1684972800&v=beta&t=dczfvGDlH6c3s3PpUWajb3BCswsrqIwGRcU8FJ4Riy0)"
+  alt=""
+/>
 ## Olá eu sou Gustavo Vieira, Desenvolvedor Web - Full-Stack!
 #### Tenho uma grande curiosidade em entender como as coisas funcionam e, por isso, decidi me aprofundar no campo da programação para a Web. Atualmente, tenho habilidades em várias tecnologias, como HTML5, CSS, JavaScript, React, GitHub, Node.js, Redux, Docker, SQL, TypeScript, Deploy e metodologias ágeis.
 
