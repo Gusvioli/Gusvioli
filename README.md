@@ -17,9 +17,13 @@ Estou confiante em minhas habilidades e determinado a alcançar meus objetivos p
  <div style="flex-direction: row; color: rgb(255, 196, 0);">
   <a href="https://github.com/Gusvioli">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&cache_seconds=7200&card_width=500&line_height=30"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=350"/>  
-  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=350"/> 
+
 </div>
+  
+  
+[![wakatime](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae/project/d2009dc6-dad4-4cf9-af06-6b7395dc9850.svg)](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae/project/d2009dc6-dad4-4cf9-af06-6b7395dc9850)
+  
 
 ##
 ### Habilidades:
