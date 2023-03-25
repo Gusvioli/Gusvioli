@@ -22,7 +22,7 @@ Estou confiante em minhas habilidades e determinado a alcançar meus objetivos p
 </div>
   
 ### Tempo programando em projetos:   
-[![wakatime](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae/project/d2009dc6-dad4-4cf9-af06-6b7395dc9850.svg)](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae/project/d2009dc6-dad4-4cf9-af06-6b7395dc9850)
+[![wakatime](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae.svg)](https://wakatime.com/@188f7802-a63a-4659-96ff-2ab3525b4eae)
   
 
 ##
