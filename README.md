@@ -10,7 +10,6 @@
 
 Além disso, estou sempre me atualizando e me desenvolvendo como programador, buscando novos conhecimentos e desafios. Meu objetivo é me tornar um desenvolvedor full-stack altamente qualificado, conquistar reconhecimento no mercado de trabalho e obter um emprego de qualidade na área de desenvolvimento web.
 
-Estou confiante em minhas habilidades e determinado a alcançar meus objetivos por meio de trabalho duro e dedicação. Acredito que com minha paixão pela programação e minha ética de trabalho, posso contribuir de forma significativa para o sucesso de qualquer projeto de desenvolvimento web.
 ### Página:
 ## <a href="https://gusvioli.github.io/">Meu portfólio</a>
 ### Estatísticas:
