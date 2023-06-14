@@ -21,6 +21,8 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
 
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gusvioli)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gusvioli&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
   
 ### Tempo programando em projetos:
