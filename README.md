@@ -15,8 +15,10 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
 ### Estatísticas:
  <div style="flex-direction: row; color: rgb(255, 196, 0);">
   <a href="https://github.com/Gusvioli">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&cache_seconds=7200&card_width=auto&line_height=30"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusvioli&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true&border_radius=20&locale=pt-br&cache_seconds=7200&card_width=auto"/> 
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=radical)
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gusvioli)](https://github.com/anuraghazra/github-readme-stats)
     
    
 
