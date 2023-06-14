@@ -17,7 +17,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
    
   <a href="https://github.com/Gusvioli">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=cobalt)
 
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gusvioli)](https://github.com/anuraghazra/github-readme-stats)
 
