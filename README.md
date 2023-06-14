@@ -13,7 +13,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
 ### Página:
 ## <a href="https://gusvioli.github.io/">Meu portfólio</a>
 ### Estatísticas:
- <div style="flex-direction: row; color: rgb(255, 196, 0);">
+ <div style="flex-direction: row, display: flex; justify-content: center; align-items: center; color: rgb(255, 196, 0);">
    
   <a href="https://github.com/Gusvioli">
 
