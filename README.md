@@ -23,7 +23,8 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
 
 </div>
   
-### Tempo programando em projetos:   
+### Tempo programando em projetos:
+
 [![wakatime](https://wakatime.com/badge/user/188f7802-a63a-4659-96ff-2ab3525b4eae.svg)](https://wakatime.com/@188f7802-a63a-4659-96ff-2ab3525b4eae)
   
 
