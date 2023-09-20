@@ -6,7 +6,7 @@
 />
 ## Olá eu sou Gustavo Vieira, Desenvolvedor Web - Full-Stack!
 ![](https://komarev.com/ghpvc/?username=Gusvioli&label=PROFILE+VIEWS)
-#### Tenho uma grande curiosidade em entender como as coisas funcionam e, por isso, decidi me aprofundar no campo da programação para a Web. Atualmente, tenho habilidades em várias tecnologias, como HTML5, CSS, JavaScript, React, GitHub, Node.js, Redux, Docker, SQL, TypeScript, Deploy e metodologias ágeis.
+#### Tenho uma grande curiosidade em entender como as coisas funcionam e, por isso, decidi me aprofundar no campo da programação para a Web. Atualmente, tenho habilidades em várias tecnologias, como HTML5, CSS, JavaScript, React, GitHub, Node.js, Redux, Docker, SQL, TypeScript, Python, Deploy e metodologias ágeis.
 
 Além disso, estou sempre me atualizando e me desenvolvendo como programador, buscando novos conhecimentos e desafios. Meu objetivo é me tornar um desenvolvedor full-stack altamente qualificado, conquistar reconhecimento no mercado de trabalho e obter um emprego de qualidade na área de desenvolvimento web.
 
