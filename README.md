@@ -12,16 +12,6 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
 
 ### Página:
 ## <a href="https://gusvioli.github.io/">Meu portfólio</a>
-### Estatísticas:
- <div style="flex-direction: row, display: flex; justify-content: center; align-items: center; color: rgb(255, 196, 0);">
-   
-  <a href="https://github.com/Gusvioli">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusvioli&show_icons=true&theme=dracula)
-
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gusvioli)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
   
 ### Tempo programando em projetos:
 
