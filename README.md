@@ -176,7 +176,5 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
   <a href="https://www.linkedin.com/in/gustavo-vieira-7a52b96a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
- ![Snake animation](https://github.com/Gusvioli/Gusvioli/blob/output/github-contribution-grid-snake.svg)
 </div>
  
