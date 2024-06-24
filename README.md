@@ -6,7 +6,7 @@
 />
 ## Olá eu sou Gustavo Vieira, Desenvolvedor Web - Full-Stack!
 ![](https://komarev.com/ghpvc/?username=Gusvioli&label=PROFILE+VIEWS)
-#### Tenho uma grande curiosidade em entender como as coisas funcionam e, por isso, decidi me aprofundar no campo da programação para a Web. Atualmente, tenho habilidades em várias tecnologias, como HTML5, CSS, JavaScript, React, GitHub, Node.js, Redux, Docker, SQL, TypeScript, Python, Deploy e metodologias ágeis.
+#### Tenho uma grande curiosidade em entender como as coisas funcionam e, por isso, decidi me aprofundar no campo da programação para a Web. Atualmente, tenho habilidades em várias tecnologias, como HTML5, CSS, JavaScript, React, GitHub, Node.js, Docker, SQL, TypeScript, Python.
 
 Além disso, estou sempre me atualizando e me desenvolvendo como programador, buscando novos conhecimentos e desafios. Meu objetivo é me tornar um desenvolvedor full-stack altamente qualificado, conquistar reconhecimento no mercado de trabalho e obter um emprego de qualidade na área de desenvolvimento web.
 
@@ -23,7 +23,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
 <table width="720px">
   <tbody>
     <tr valign="top">
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"
@@ -31,7 +31,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
@@ -39,7 +39,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
@@ -47,7 +47,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
@@ -55,7 +55,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"
@@ -63,7 +63,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
@@ -79,7 +79,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
@@ -87,7 +87,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
@@ -95,7 +95,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"
@@ -103,7 +103,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="auto" width="auto"
           src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"
