@@ -71,7 +71,7 @@ Além disso, estou sempre me atualizando e me desenvolvendo como programador, bu
           alt=""
         />
       </td>
-      <td width="110px" align="center" style="background-color: white;">
+      <td width="130px" align="center" style="background-color: white;">
         <img
           height="50" width="50"
           src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
